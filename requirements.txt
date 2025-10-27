@@ -5,7 +5,6 @@ Flask-SQLAlchemy
 Jinja2
 WeasyPrint
 pdfkit
-
 Flask
 reportlab
 gunicorn
