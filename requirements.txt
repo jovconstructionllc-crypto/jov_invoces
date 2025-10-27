@@ -1,0 +1,7 @@
+Flask
+Flask-WTF
+SQLAlchemy
+Flask-SQLAlchemy
+Jinja2
+WeasyPrint
+pdfkit
