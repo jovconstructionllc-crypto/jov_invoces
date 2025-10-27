@@ -5,3 +5,7 @@ Flask-SQLAlchemy
 Jinja2
 WeasyPrint
 pdfkit
+nginx
+Flask
+reportlab
+gunicorn
